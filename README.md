@@ -3,7 +3,7 @@ These files were/are to be used to test whether the MSYS2 compiler works for Win
 
 The program, if compiled correctly, will display the "Hello World" string in the terminal/console
 
-++SPECS++
+--SPECS--
 
 The g++ version used at the time that this was written is 12.1.0
 The gdb version used at the time that this was written is 12.1
