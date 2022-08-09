@@ -6,7 +6,7 @@
 # What Does the Code Do?
 The program, if compiled correctly, will display the "Hello World" string in the terminal/console
 
-# SPECS
+# Specs
 - The g++ version used at the time that this was written is 12.1.0
 - The gdb version used at the time that this was written is 12.1
 
