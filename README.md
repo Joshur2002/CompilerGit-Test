@@ -4,7 +4,7 @@
 - The MSYS2 compiler was used/tested
 
 # What Does the Code Do?
-The program, if compiled correctly, will display the "Hello World" string in the terminal/console
+- The program, if compiled correctly, will display the "Hello World" string in the terminal/console
 
 # Specs
 - The g++ version used at the time that this was written is 12.1.0
